@@ -37,7 +37,6 @@ nav {
 main {
     box-sizing: border-box;
     width: 100%;
-    /*width: 1200px;*/
     margin-top: 50px;
     display: flex;
     justify-content: center;
